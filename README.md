@@ -1,5 +1,5 @@
 # Colour_detection
-This application shows the color nme by clicking on images.
+This application shows the color name by clicking on images.
 
 Requirements :
 
